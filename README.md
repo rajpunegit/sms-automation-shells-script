@@ -55,3 +55,4 @@ Note
 This is a basic script that can be used as a starting point for sending SMS messages using an API. Modify the script according to your needs and requirements.
 Replace the API endpoint with the appropriate endpoint for your SMS service.
 This script does not handle errors or exceptions, so it should be used with care.
+
