@@ -35,10 +35,7 @@ done
 
 Each text file must contain four lines:
 
-<template_id>
-<mobile>
-<message>
-<additional information>
+<template_id> <mobile> <message> <additional information>
 
 The first line contains the template ID for the message.
 The second line contains the recipient's mobile number.
